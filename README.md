@@ -1,2 +1,2 @@
-# artwork
-Art, Science, and Technology
+# SENSEWALKING
+A PLAYFUL GUIDE FOR GENERATIVE SENSE INTERPLAY
